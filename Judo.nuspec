@@ -10,5 +10,14 @@
     <files>
       <file src="bin\**\*.*" target="bin" />
 	  <file src="obj\**\*.*" target="obj" />
+	  <file src="appsettings.Development.json"/>
+	  <file src="appsettings.json"/>
+	  <file src="HelloWorldDotNetCore.deps.json"/>
+	  <file src="HelloWorldDotNetCore.dll"/>
+	  <file src="HelloWorldDotNetCore.pdb"/>
+	  <file src="HelloWorldDotNetCore.PrecompiledViews.dll"/>
+	  <file src="HelloWorldDotNetCore.PrecompiledViews.pdb"/>
+	  <file src="HelloWorldDotNetCore.runtimeconfig.json"/>
+	  <file src="web.config"/>
     </files>
 </package>
