@@ -18,5 +18,6 @@
 	  <file src="bin\release\netcoreapp2.0\publish\HelloWorldDotNetCore.runtimeconfig.json" target="HelloWorldDotNetCore.runtimeconfig.json"/>
 	  <file src="bin\release\netcoreapp2.0\publish\web.config" target="web.config"/>
 	  <file src="dockerfile"/>
+	  <file src="docker-compose.yml"/>
     </files>
 </package>
