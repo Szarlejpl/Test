@@ -8,14 +8,15 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     </metadata>
     <files>
-	  <file src="appsettings.Development.json"/>
-	  <file src="appsettings.json"/>
-	  <file src="HelloWorldDotNetCore.deps.json"/>
-	  <file src="HelloWorldDotNetCore.dll"/>
-	  <file src="HelloWorldDotNetCore.pdb"/>
-	  <file src="HelloWorldDotNetCore.PrecompiledViews.dll"/>
-	  <file src="HelloWorldDotNetCore.PrecompiledViews.pdb"/>
-	  <file src="HelloWorldDotNetCore.runtimeconfig.json"/>
-	  <file src="web.config"/>
+	  <file src="bin\release\netcoreapp2.0\appsettings.Development.json" target="appsettings.Development.json"/>
+	  <file src="bin\release\netcoreapp2.0\appsettings.json" target="appsettings.json" />
+	  <file src="bin\release\netcoreapp2.0\HelloWorldDotNetCore.deps.json" target="HelloWorldDotNetCore.deps.json" />
+	  <file src="bin\release\netcoreapp2.0\HelloWorldDotNetCore.dll" target="HelloWorldDotNetCore.dll" />
+	  <file src="bin\release\netcoreapp2.0\HelloWorldDotNetCore.pdb" target="HelloWorldDotNetCore.pdb"/>
+	  <file src="bin\release\netcoreapp2.0\HelloWorldDotNetCore.PrecompiledViews.dll" target="HelloWorldDotNetCore.PrecompiledViews.dll"/>
+	  <file src="bin\release\netcoreapp2.0\HelloWorldDotNetCore.PrecompiledViews.pdb" target="HelloWorldDotNetCore.PrecompiledViews.pdb"/>
+	  <file src="bin\release\netcoreapp2.0\HelloWorldDotNetCore.runtimeconfig.json" target="HelloWorldDotNetCore.runtimeconfig.json"/>
+	  <file src="bin\release\netcoreapp2.0\web.config" target="web.config"/>
+	  <file src="dockerfile"
     </files>
 </package>
