@@ -17,6 +17,6 @@
 	  <file src="bin\release\netcoreapp2.0\HelloWorldDotNetCore.PrecompiledViews.pdb" target="HelloWorldDotNetCore.PrecompiledViews.pdb"/>
 	  <file src="bin\release\netcoreapp2.0\HelloWorldDotNetCore.runtimeconfig.json" target="HelloWorldDotNetCore.runtimeconfig.json"/>
 	  <file src="bin\release\netcoreapp2.0\web.config" target="web.config"/>
-	  <file src="dockerfile"
+	  <file src="dockerfile"/>
     </files>
 </package>
